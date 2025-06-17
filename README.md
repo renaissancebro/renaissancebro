@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @renaissancebro
-- 👀 I’m interested in building bots
-- 🌱 I’m currently learning webscraping and automation with python bs4 and playwright
-- 💞️ I’m looking to collaborate on learning partners
-- 📫 How to reach me internsip12@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: I am 1950 on chess.com rapid 
+👋 Hey, I’m Josh (renaissancebro) — builder at the intersection of automation, policy, and data systems.  
+💻 I work in Python, building bots, scrapers, and cloud-based tools with Flask, Playwright, and SQLite.  
+🚀 Currently developing EO Watchdog — a live U.S. executive order alerting system with dashboard, email integration, and scheduler.  
+📫 Reach me at jcfreeman23@gmail.com  
+🌍 WashU Skandalaris Incubator | Supply Chain & Mandarin | Founder @ AlphaRed  
+♟️ Fun fact: 1950 rapid on chess.com  
+
 
 <!---
 renaissancebro/renaissancebro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
