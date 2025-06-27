@@ -1,5 +1,5 @@
 👋 Hey, I’m Josh (renaissancebro) — builder at the intersection of automation, policy, and data systems.  
-💻 I work in Python, building bots, scrapers, and cloud-based tools with Flask, Playwright, and SQLite.  
+💻 I work in Python, building bots, agents, scrapers, and cloud-based tools with Flask, Playwright, and SQLite.  
 🚀 Currently developing EO Watchdog — a live U.S. executive order alerting system with dashboard, email integration, and scheduler.  
 📫 Reach me at jcfreeman23@gmail.com  
 🌍 WashU Skandalaris Incubator | Supply Chain & Mandarin | Founder @ AlphaRed  
