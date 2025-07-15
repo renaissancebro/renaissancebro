@@ -35,6 +35,7 @@ If you’re building in:
 	•	AI safety, tooling, or agent architectures
 
 Let’s talk: jcfreeman23@gmail.com
+Join the emotional agent design Discord — where we’re building alignment through identity and emotional feedback systems: https://discord.gg/XcmCEa4Y
 
 <!---
 renaissancebro/renaissancebro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
